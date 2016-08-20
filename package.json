@@ -1,0 +1,24 @@
+{
+  "name": "github-oauth-example",
+  "version": "1.0.0",
+  "description": "sample demo of using github oauth with node",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^2.0.0",
+    "github-oauth": "^0.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sticksword/github-oauth-example.git"
+  },
+  "author": "michael chen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sticksword/github-oauth-example/issues"
+  },
+  "homepage": "https://github.com/Sticksword/github-oauth-example#readme"
+}
